@@ -9,14 +9,25 @@ Generative AI systems are known to perpetuate and exacerbate existing human bias
 
 
 # Objective #
-This project aims to determine the factors impacting gender disparity in generative AI usage. The study will empower more women to utilize generative AI, bridge the gender gap, and raise awareness about the potential biases and harms associated with these systems. Our participation will help ensure that generative AI is developed and used in an inclusive, equitable, and beneficial way.
+This project aims to determine the factors impacting gender disparity in generative AI usage. The study will empower more women to utilize generative AI, bridge the gender gap, and raise awareness about the potential biases and harms associated with these systems. Our participation in the Datathon will help ensure that generative AI is developed and used in an inclusive, equitable, and beneficial way.
 
 
 # Problem-solving approach #
-1.	Descriptive and inferential analysis: Conduct a thorough analysis of the survey data to identify key trends, patterns, and areas of concern.
-2.	Qualitative analysis: Explore the open-ended responses to gain deeper insights into user experiences and perceptions.
-3.	Comparative analysis: Compare the responses across different demographics, platforms, and usage frequencies.
-4.	Identify themes: Extract common themes and patterns from the data to inform recommendations and actions.
+### Descriptive and inferential analysis ###
+
+Conduct a thorough analysis of the survey data to identify key trends, patterns, and areas of concern.
+
+### Qualitative analysis ###
+
+Explore the open-ended responses to gain deeper insights into user experiences and perceptions.
+
+### Comparative analysis ###
+
+Compare the responses across different demographics, platforms, and usage frequencies.
+
+### Identify themes ###
+
+Extract common themes and patterns from the data to inform recommendations and actions.
 
 
 # Stakeholders/Audience in the Study of Gender Gap in Generative AI #
